@@ -6,8 +6,11 @@
 	<title>intro js</title>
 </head>
 <body>
-	<script type="text/javascript">
-		document.write("olayiwola");
-	</script>
+	<div id="nameValue"></div>
+	<div id="heightValue"></div>
+	<div id="countryValue"> </div>
 </body>
+
+<script type="text/javascript" src="index.js"></script>
+
 </html>
